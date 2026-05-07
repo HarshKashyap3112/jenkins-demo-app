@@ -1,0 +1,1 @@
+console.log('Hello, World! this is a simple Node.js application. for checking jenkins integration with github');
